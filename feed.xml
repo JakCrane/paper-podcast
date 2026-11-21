@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Paper of the Day</title>
+    <link>https://jakcrane.github.io/paper-podcast/</link>
+    <description>Daily two-host discussions of papers from my reading list. Scripts by Claude, voices by Edge TTS.</description>
+    <language>en-gb</language>
+    <itunes:author>Paper of the Day</itunes:author>
+    <itunes:image href="https://jakcrane.github.io/paper-podcast/cover.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Inertial Surveying&#x27;s Comeback: Railway Track Geometry at the Millimetre Level</title>
+      <description>Niu, Chen, Kuang and Liu at Wuhan University&#x27;s GNSS Research Center argue that inertial surveying, which was largely abandoned once RTK GNSS arrived, may be due a comeback. Their case study uses a GNSS- and odometer-aided navigation-grade INS on a railway trolley to measure vertical track irregularity on a high-speed line. This episode goes through the processing chain, judges how far the &quot;millimetre and submillimetre&quot; claim is supported by what the paper shows, and pulls out open questions for researchers in inertial sensing and gravimetry. Source: Return_of_inertial_surveying__Trend_or_illusion.pdf</description>
+      <enclosure url="https://jakcrane.github.io/paper-podcast/episodes/2026-11-19-inertial-surveying-s-comeback-railway-track-geometry-at-the-millimetre.mp3" length="5124236" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-19-inertial-surveying-s-comeback-railway-track-geometry-at-the-millimetre.mp3</guid>
+      <pubDate>Thu, 19 Nov 2026 01:16:13 +0000</pubDate>
+      <itunes:duration>1280</itunes:duration>
+    </item>
+    <item>
+      <title>FALCON Over Kauring: How Noisy Is Airborne Gradiometry Really?</title>
+      <description>A close reading of &quot;Noise and repeatability of airborne gravity gradiometry&quot; by Christensen, Dransfield and Van Galder, published in First Break in 2015. It covers three noise estimates for the fixed-wing FALCON-II system over the R.J. Smith test range in Western Australia, plus the trade-off between resolution and noise, and asks whether the numbers mean what the authors say they mean. Source: cggv_0000023042.pdf</description>
+      <enclosure url="https://jakcrane.github.io/paper-podcast/episodes/2026-11-18-falcon-over-kauring-how-noisy-is-airborne-gradiometry-really.mp3" length="4758092" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-18-falcon-over-kauring-how-noisy-is-airborne-gradiometry-really.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 01:13:14 +0000</pubDate>
+      <itunes:duration>1189</itunes:duration>
+    </item>
+    <item>
+      <title>Project Falcon: the first airborne gravity gradiometer</title>
+      <description>Edwin van Leeuwen&#x27;s 2000 Leading Edge article announcing BHP&#x27;s Falcon airborne gravity gradiometer. We go through what the short announcement actually claims about noise and resolution, the single validation figure, and what it leaves out. Source: BHP airborne gradiometer.pdf</description>
+      <enclosure url="https://jakcrane.github.io/paper-podcast/episodes/2026-11-17-project-falcon-the-first-airborne-gravity-gradiometer.mp3" length="4345292" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-17-project-falcon-the-first-airborne-gravity-gradiometer.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 15:04:58 +0000</pubDate>
+      <itunes:duration>1086</itunes:duration>
+    </item>
+    <item>
+      <title>Hunting Tunnels from a Helicopter with FALCON</title>
+      <description>A close reading of Hodges, Dransfield and Shei&#x27;s SAGEEP 2010 paper from Fugro Airborne Surveys, which argues that the helicopter-borne FALCON airborne gravity gradiometer can detect engineering-scale voids and tunnels. We cover how the FALCON partial-tensor instrument works, the forward-modelling study of cavities and tunnels, and the Superconducting Super Collider tunnel test. We also look hard at the detection thresholds and at internal inconsistencies, and at what this means for anyone working on gradiometry, terrain correction or quantum gravity sensing today. Source: Hodgesetal--2010--AGGforEngineeringv4--SAGEEP.pdf</description>
+      <enclosure url="https://jakcrane.github.io/paper-podcast/episodes/2026-11-17-hunting-tunnels-from-a-helicopter-with-falcon.mp3" length="5049836" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-17-hunting-tunnels-from-a-helicopter-with-falcon.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 16:58:13 +0000</pubDate>
+      <itunes:duration>1262</itunes:duration>
+    </item>
+  </channel>
+</rss>
